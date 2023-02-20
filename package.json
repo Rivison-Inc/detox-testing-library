@@ -1,0 +1,13 @@
+{
+  "name": "detox-testing-library",
+  "version": "1.0.0",
+  "description": "testing-library inspired selectors for detox",
+  "main": "index.js",
+  "repository": "git@github.com:Rivison-Inc/detox-testing-library.git",
+  "author": "Ben <BenLorantfy@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "detox": "^20.1.4",
+    "typescript": "^4.9.5"
+  }
+}
